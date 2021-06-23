@@ -13,3 +13,13 @@
 
 1. http://127.0.0.1:8000/users/
 2. http://127.0.0.1:8000/customers/
+
+Note: You should have `mysql` installed in local with below setup
+
+        """
+
+            'NAME': 'soubhagya',
+            'USER': 'root',
+            'PASSWORD': 'Thinkonce',
+
+        """
